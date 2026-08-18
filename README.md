@@ -39,9 +39,7 @@ Copy HTML — копирует чистый SVG-код.<br>
 Убедитесь, что у вас установлен Python 3.9+. Клонируйте репозиторий и установите зависимости:<br>
 git clone https://github.com/ВАШ_НИК/SVG_ICO_VIEWER.gitcd SVG_ICO_VIEWERpip install PyQt6<br>
 Запустите приложение:<br>
-bash<br>
 python main.py<br>
-<br>
 Либо скачайте exe файл
 <br><br>
 2. Добавление иконок<br>
